@@ -1,4 +1,5 @@
-![banner gif](https://github.com/user-attachments/assets/8821cb41-3959-414f-a525-b14774709514)
+![ok ban](https://github.com/user-attachments/assets/71b8dcbe-859f-47a0-a5a6-7ccf762d4801)
+
 <h1 align="center">Hi 👋, I'm Kabilan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
