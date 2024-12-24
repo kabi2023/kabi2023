@@ -4,7 +4,7 @@
 <h3 align="center">A Computer Science and Engineering student with a deep passion for Web Development and UI/UX design.</h3>
 
 <img src="gif.gif" alt="man">
-<img align="right" width="280px" src="https://github.com/user-attachments/assets/3e9a952e-866a-43a9-9480-591269b7e919">
+<img align="right" width="260px" src="https://github.com/user-attachments/assets/3e9a952e-866a-43a9-9480-591269b7e919">
 
 - **Web Development :** Proficient in HTML, CSS, and Bootstrap
 
