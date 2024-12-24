@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/71b8dcbe-859f-47a0-a5a6-7ccf762d4801">
  
 <h1 align="center">Hi 👋, I'm Kabilan</h1>
-<h3 align="center">A Computer Science and Engineering student with a deep passion for Web Development and UI/UX design.</h3>
+<h3 align="center">A Computer Science Student with a deep passion for Web Development and UI/UX design.</h3>
 
 <img src="gif.gif" alt="man">
 <img align="right" width="260px" src="https://github.com/user-attachments/assets/3e9a952e-866a-43a9-9480-591269b7e919">
@@ -25,7 +25,7 @@
 <br>
 <h3 align="left">Github Stact:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=kabi2023&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api?username=kabi2023&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kabi2023&theme=dark&hide_border=false)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kabi2023&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 
