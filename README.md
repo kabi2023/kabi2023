@@ -1,5 +1,4 @@
 ![banner gif](https://github.com/user-attachments/assets/8821cb41-3959-414f-a525-b14774709514)
-</a>![Uploading banner gif.gif…]()
 <h1 align="center">Hi 👋, I'm Kabilan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
