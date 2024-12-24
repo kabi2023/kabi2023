@@ -8,11 +8,12 @@
 
 
 
-- 🌱 I’m currently learning **java,react**
+- Web Development: Skilled in HTML, CSS, Bootstrap, and building projects like tourist showcase and travel booking websites.
+-  UI/UX Design: Focused on designing intuitive and aesthetically pleasing interfaces that enhance user experiences.
+-  Advanced Java Programming: Currently pursuing certification at Anudip Foundation, honing my skills in Java development.
+- Full-Stack Knowledge: Completed an internship at Retech Solution Company, gaining hands-on experience in MERN stack development.
 
-- 🤝 I’m looking for help with **web Development**
 
-- 📫 How to reach me **kabilanoffical@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
