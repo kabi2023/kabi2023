@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabi2023" alt="kabi2023" /></a> </p>
 <img src="gif.gif" alt="man">
-![gif](https://github.com/user-attachments/assets/a549ac40-570d-4d83-92c9-254486762d7a)
+<img src="https://github.com/user-attachments/assets/a549ac40-570d-4d83-92c9-254486762d7a">
 
 
 
