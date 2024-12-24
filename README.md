@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/71b8dcbe-859f-47a0-a5a6-7ccf762d4801">
-<h1 style="text-shadow= 2px 2px 5px red;">Hi 👋, I'm Kabilan</h1>
+<h1 style="text-shadow= 2px 2px 5px red ">Hi 👋, I'm Kabilan</h1>
 <h1 align="center">Hi 👋, I'm Kabilan</h1>
 <h3 align="center">A Computer Science and Engineering student with a deep passion for Web Development and UI/UX design.</h3>
 
