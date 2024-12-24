@@ -13,11 +13,11 @@
 - **UI/UX Design :** Designing user-friendly and visually appealing interfaces 
 - **Java Programming :** Pursuing certification at Anudip Foundation to enhance Java skills
 - **Internship Experience :** Gained hands-on experience in Full stack during an internship at Retech Solution Company
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kabilan .m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kabilan .m" height="30" width="40" /></a>
-<a href="https://fb.com/mrkabii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrkabii" height="30" width="40" /></a>
+<a href="https://fb.com/mrkabii.mrkabii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrkabii" height="30" width="40" /></a>
 <a href="https://instagram.com/secret.__.smily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="secret.__.smily" height="30" width="40" /></a>
 </p>
 
