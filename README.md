@@ -2,12 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Kabilan</h1>
 <h3 align="center">A Computer Science and Engineering student with a deep passion for web development and UI/UX design.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabi2023&label=Profile%20views&color=0e75b6&style=flat" alt="kabi2023" /> </p>
+
 
 <img src="gif.gif" alt="man">
 <img align="right" width="280px" src="https://github.com/user-attachments/assets/3e9a952e-866a-43a9-9480-591269b7e919">
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabi2023&label=Profile%20views&color=0e75b6&style=flat" alt="kabi2023" /> </p>
 
 - **Web Development :** Proficient in HTML, CSS, and Bootstrap
 
