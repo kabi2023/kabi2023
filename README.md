@@ -8,12 +8,10 @@
 
 
 
-- Web Development: Skilled in HTML, CSS, Bootstrap, and building projects like tourist showcase and travel booking websites.
--  UI/UX Design: Focused on designing intuitive and aesthetically pleasing interfaces that enhance user experiences.
--  Advanced Java Programming: Currently pursuing certification at Anudip Foundation, honing my skills in Java development.
-- Full-Stack Knowledge: Completed an internship at Retech Solution Company, gaining hands-on experience in MERN stack development.
-
-
+**Web Development**: Proficient in HTML, CSS, and Bootstrap
+**UI/UX Design:** Designing user-friendly and visually appealing interfaces
+**Java Programming:** Pursuing certification at Anudip Foundation to enhance Java skills
+**Internship Experience**: Gained hands-on experience in web development during an internship at Retech Solution Company
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
