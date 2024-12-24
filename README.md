@@ -8,10 +8,10 @@
 
 
 
-**Web Development**: Proficient in HTML, CSS, and Bootstrap
-**UI/UX Design:** Designing user-friendly and visually appealing interfaces
-**Java Programming:** Pursuing certification at Anudip Foundation to enhance Java skills
-**Internship Experience**: Gained hands-on experience in web development during an internship at Retech Solution Company
+- **Web Development**: Proficient in HTML, CSS, and Bootstrap
+-**UI/UX Design:** Designing user-friendly and visually appealing interfaces
+-**Java Programming:** Pursuing certification at Anudip Foundation to enhance Java skills
+-**Internship Experience**: Gained hands-on experience in web development during an internship at Retech Solution Company
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
