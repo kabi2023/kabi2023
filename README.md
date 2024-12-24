@@ -1,4 +1,3 @@
-
 ![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/64e7849f-9a9b-4010-8403-5b5e98c67556)
 
 <h1 align="center">Hi 👋, I'm Kabilan</h1>
@@ -11,13 +10,11 @@
 
 - **UI/UX Design :** Designing user-friendly and visually appealing interfaces 
 - **Java Programming :** Pursuing certification at Anudip Foundation to enhance Java skills
-- **Internship Experience :** Gained hands-on experience in Full stack during an internship at Retech Solution Company <br>
+- **Internship Experience :** Gained hands-on experience in Full stack during an internship at Retech Solution Company <br><br>
 
-  <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-
+  
 <div align="left">
 <a href="mailto:kabilanoffical@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
@@ -36,7 +33,6 @@
 </a>
 </div>
 
-
 <h3 align="left">The Digital Artisan:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -52,13 +48,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br>
 
-<br>
 <h3 align="left">Github Stact:</h3>
-
 
 ![](https://github-readme-stats.vercel.app/api?username=kabi2023&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&nbsp;&nbsp;&nbsp;<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kabi2023&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kabi2023&theme=dark&hide_border=false)<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabi2023&label=Profile%20views&color=0e75b6&style=flat" alt="kabi2023" /> </p>
