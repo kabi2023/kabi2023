@@ -1,5 +1,8 @@
+<img src="https://www.technox-ets.org/web/image/slide.channel/128/image_512/Front-End%20Development?unique=306ccea" alt="">
 <h1 align="center">Hi 👋, I'm Kabilan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="coder">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabi2023&label=Profile%20views&color=0e75b6&style=flat" alt="kabi2023" /> </p>
 
