@@ -1,4 +1,4 @@
-![gitbro3](https://github.com/user-attachments/assets/41858452-d7ff-4dbd-8438-a68af8d707ff)
+![Github Banner](https://github.com/user-attachments/assets/919e9732-23a6-4c23-a193-6cbc645cf1f1)
 
 <h1 align="center">Hi 👋, I'm Kabilan</h1>
 <h3 align="center">A Computer Science Student with a deep passion for Web Development and UI/UX design.</h3>
