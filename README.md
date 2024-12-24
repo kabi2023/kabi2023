@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/71b8dcbe-859f-47a0-a5a6-7ccf762d4801">
 
 <h1 align="center">Hi 👋, I'm Kabilan</h1>
-<h3 align="center">A Computer Science and Engineering student with a deep passion for web development and UI/UX design.</h3>
+<h3 align="center">A Computer Science and Engineering student with a deep passion for Web Development and UI/UX design.</h3>
 
 <img src="gif.gif" alt="man">
 <img align="right" width="280px" src="https://github.com/user-attachments/assets/3e9a952e-866a-43a9-9480-591269b7e919">
