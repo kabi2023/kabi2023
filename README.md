@@ -1,20 +1,20 @@
 ![banner gif](https://github.com/user-attachments/assets/8821cb41-3959-414f-a525-b14774709514)
 <h1 align="center">Hi 👋, I'm Kabilan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" src="gif.gif" alt="man">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabi2023&label=Profile%20views&color=0e75b6&style=flat" alt="kabi2023" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabi2023" alt="kabi2023" /></a> </p>
-(https://github.com/user-attachments/assets/0defad65-f249-4880-a447-fd99cfbcc66c)
+
 
 
 
 - 🌱 I’m currently learning **java,react**
 
 - 🤝 I’m looking for help with **web Development**
-
 
 - 📫 How to reach me **kabilanoffical@gmail.com**
 
