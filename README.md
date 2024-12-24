@@ -3,7 +3,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img src="gif.gif" alt="man">
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/a549ac40-570d-4d83-92c9-254486762d7a">
+<img align="right" width="350px" src="https://github.com/user-attachments/assets/3e9a952e-866a-43a9-9480-591269b7e919">
+
 
 
 - 🌱 I’m currently learning **java,react**
