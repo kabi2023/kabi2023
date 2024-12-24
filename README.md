@@ -5,14 +5,15 @@
 <h3 align="center">A Computer Science Student with a deep passion for Web Development and UI/UX design.</h3>
 
 <img src="gif.gif" alt="man">
-<img align="right" width="260px" src="https://github.com/user-attachments/assets/3e9a952e-866a-43a9-9480-591269b7e919">
+<img align="right" width="250px" src="https://github.com/user-attachments/assets/632f21be-912e-479e-ba83-bb65528c3682">
 
 - **Web Development :** Proficient in HTML, CSS, and Bootstrap
 
 - **UI/UX Design :** Designing user-friendly and visually appealing interfaces 
 - **Java Programming :** Pursuing certification at Anudip Foundation to enhance Java skills
 - **Internship Experience :** Gained hands-on experience in Full stack during an internship at Retech Solution Company <br>
-  
+
+  <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
