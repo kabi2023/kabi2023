@@ -1,4 +1,3 @@
-[![masterhead][Black Gold Minimalist Elegant Business LinkedIn Banner](https://github.com/user-attachments/assets/7b35e251-5516-46a9-9ee6-1ff5079951a6)
 
 <h1 align="center">Hi 👋, I'm Kabilan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
