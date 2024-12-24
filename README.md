@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabi2023&label=Profile%20views&color=0e75b6&style=flat" alt="kabi2023" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabi2023" alt="kabi2023" /></a> </p>
-<img align="right" src="gif.gif" alt="man">
+<img src="gif.gif" alt="man">
 
 
 
