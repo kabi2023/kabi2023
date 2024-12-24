@@ -1,5 +1,6 @@
-<img src="https://github.com/user-attachments/assets/71b8dcbe-859f-47a0-a5a6-7ccf762d4801">
- 
+
+![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/64e7849f-9a9b-4010-8403-5b5e98c67556)
+
 <h1 align="center">Hi 👋, I'm Kabilan</h1>
 <h3 align="center">A Computer Science Student with a deep passion for Web Development and UI/UX design.</h3>
 
@@ -33,7 +34,6 @@
 <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
 </a>
 </div>
-
 
 
 <h3 align="left">The Digital Artisan:</h3>
