@@ -6,7 +6,7 @@
 <img src="gif.gif" alt="man">
 <img align="right" width="250px" src="https://github.com/user-attachments/assets/632f21be-912e-479e-ba83-bb65528c3682">
 
-- **Web Development :** Proficient in HTML, CSS, and Bootstrap
+- **Web Development :** Proficient in HTML, CSS, Bootstrap,JavaScript
 
 - **UI/UX Design :** Designing user-friendly and visually appealing interfaces 
 - **Java Programming :** Pursuing certification at Anudip Foundation to enhance Java skills
