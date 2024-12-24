@@ -8,7 +8,7 @@
 <img align="right" width="280px" src="https://github.com/user-attachments/assets/3e9a952e-866a-43a9-9480-591269b7e919">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabi2023&label=Profile%20views&color=0e75b6&style=flat" alt="kabi2023" /> </p>
+&nbsp;&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabi2023&label=Profile%20views&color=0e75b6&style=flat" alt="kabi2023" /> </p>
 
 - **Web Development :** Proficient in HTML, CSS, and Bootstrap
 
