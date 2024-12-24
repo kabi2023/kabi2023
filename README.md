@@ -1,4 +1,5 @@
-![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/64e7849f-9a9b-4010-8403-5b5e98c67556)
+![GITHUB BANNER](https://github.com/user-attachments/assets/0f2feff3-3310-4e75-828c-576befb69277)
+
 
 <h1 align="center">Hi 👋, I'm Kabilan</h1>
 <h3 align="center">A Computer Science Student with a deep passion for Web Development and UI/UX design.</h3>
