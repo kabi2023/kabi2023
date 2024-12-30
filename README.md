@@ -50,10 +50,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br>
 
-<h3 align="left">Github Stact:</h3>
+<h3 align="left">Github Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=kabi2023&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&nbsp;&nbsp;&nbsp;<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kabi2023&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kabi2023&theme=dark&hide_border=false)<br/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabi2023&label=Profile%20views&color=0e75b6&style=flat" alt="kabi2023" /> </p>
